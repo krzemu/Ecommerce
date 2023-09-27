@@ -1,0 +1,27 @@
+[
+  {
+    "email": "przemek@test.pl",
+    "password": "bd713eab0134927790c9e1d6921c5831e3f033abfb3bf3e7b68eaa8e916a923dfc5519aa0ad5e34b71f43a017a688bf7a6c39884dda97efe5ec100735c14834b.9bf91b62fc81c2b1",
+    "id": "9fa88c40"
+  },
+  {
+    "email": "test@test.com",
+    "password": "9bd0aa6f557aeaffc1f526f87969604c278750b54bcbebeaba5b7b35d137ae792e9834ffd5acdacd7fafb264785c040dd85c1e68742492340f88e88c32ab3f3d.b665beda64898605",
+    "id": "3f075192"
+  },
+  {
+    "email": "czemu@nie.dziala",
+    "password": "81176a4ddc5ea025939eb5553cc2a13ac763033719f89cf2cd305de45253f579f99be3dee01af44f07a5fac8c0ee45a788377f7ab995a2dde99d7a047eef6daf.31d989dc12e7e66e",
+    "id": "bdc10aa2"
+  },
+  {
+    "email": "przmeek112@sp.pl",
+    "password": "3c6e779508957933d7f3c0d41d3455e44918480aa57be571cff3f906795ad590780f591163b41f037864e9576ce2ed5a2eadc55ab8d6422429bff2c92c810314.65c6eb5030251d6e",
+    "id": "37683583"
+  },
+  {
+    "email": "teste@yolo.pl",
+    "password": "8dfb7d55de4ce0e341078697174fa8c5ea85a07ec98bbc38f859de1e8b6dfe792dc6869d46718f6a3492c0f8db2981387d3938fba44506f5c87d128518ed6c65.d562532d86437779",
+    "id": "0f2f35bb"
+  }
+]
